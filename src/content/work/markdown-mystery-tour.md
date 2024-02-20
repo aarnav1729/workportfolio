@@ -1,5 +1,5 @@
 ---
-title: Kasey's Kanvas- Digital Design Studio
+title: Project CARLA- AI powered mental health chatbot for college students
 publishDate: 2023-09-02 20:44:12
 img: /assets/Screenshot2.png
 img_alt: Iridescent ripples of a bright blue and pink liquid
