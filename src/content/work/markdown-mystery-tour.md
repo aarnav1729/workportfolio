@@ -1,10 +1,10 @@
 ---
 title: Kasey's Kanvas- Digital Design Studio
-publishDate: 2023-09-02 00:00:00
+publishDate: 2023-09-02 20:44:12
 img: /assets/Screenshot2.png
 img_alt: Iridescent ripples of a bright blue and pink liquid
 description: |
-  We designed a fully responsive and viuslly stunning landing page for a digital design studio agency.
+  We designed a fully responsive and context aware Reactjs web application for a Project CARLA (campus assistant for resources learning and accessibility)
 tags:
   - OpenAI API
   - Backend Development

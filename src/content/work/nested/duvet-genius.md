@@ -7,6 +7,7 @@ description: |
   We developed a fully functional website for a fashion jewelry boutique complete with a custom landing page and order integration.
 tags:
   - Design
+  - WhatsApp API
 ---
 • Developed a fully responsive website for a fashion jewelry boutique to showcase their product catalog.
 
