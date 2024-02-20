@@ -7,8 +7,6 @@ description: |
   We paired with one of the oldest Restrobars in Hyderabad for our first project and delivered a fully functional and responsive landing page that includes a reservation form to streamline online reservations.
 tags:
   - Frontend Development
-  - Branding
-  - User Experience
 ---
 
 • Designed a fully responsive landing page for a popular restrobar to drive customer engagement.

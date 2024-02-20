@@ -7,7 +7,5 @@ description: |
   We designed a whodunnit-style game to introduce Markdown formatting. Suspense — suspicion — syntax!
 tags:
   - Design
-  - Dev
-  - User Testing
 ---
 

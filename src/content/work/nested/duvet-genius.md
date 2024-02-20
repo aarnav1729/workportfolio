@@ -7,8 +7,6 @@ description: |
   We developed a virtual showcase for the softest bedding imaginable.
 tags:
   - Design
-  - Dev
-  - Branding
 ---
 
 
