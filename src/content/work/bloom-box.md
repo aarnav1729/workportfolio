@@ -1,7 +1,7 @@
 ---
 title: Taste of Bombay RestroBar Landing Page
 publishDate: 2023-06-10 12:00:47
-img: /assets/hire1.mov
+img: /assets/Screenshot.png
 img_alt: A bright pink sheet of paper used to wrap flowers curves in front of rich blue background
 description: |
   We paired with a cutting-edge music API and a team of horticulturalists
